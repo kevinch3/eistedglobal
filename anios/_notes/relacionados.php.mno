@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_subidas" value="name:id_subida;datatype:int,name:archivo;datatype:blob,name:descripcion;datatype:blob,name:id_anio;datatype:int" />
+</info>

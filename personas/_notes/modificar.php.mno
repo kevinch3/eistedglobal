@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_personas" value="name:id_persona;datatype:int,name:Nombre;datatype:blob,name:Apellido;datatype:blob,name:FechaNac;datatype:date,name:Nacionalidad;datatype:blob,name:Residencia;datatype:blob,name:Email;datatype:blob,name:Telefono;datatype:blob" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_anio" value="name:Id_anio;datatype:int,name:comision;datatype:blob,name:presentadores;datatype:blob,name:coordinadores;datatype:blob,name:jurado;datatype:blob,name:balance;datatype:blob,name:extra;datatype:int" />
+	<infoitem key="UD_competencias" value="name:id_comp;datatype:int,name:categoria;datatype:int,name:descripcion;datatype:blob,name:fk_anio;datatype:int,name:idioma;datatype:blob" />
+</info>

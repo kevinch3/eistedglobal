@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_personas" value="name:id_persona;datatype:int,name:Nombre;datatype:blob,name:Apellido;datatype:blob,name:FechaNac;datatype:date,name:Nacionalidad;datatype:blob,name:Residencia;datatype:blob,name:Email;datatype:blob,name:Telefono;datatype:int" />
+	<infoitem key="UD_inscriptos" value="name:id_inscripto;datatype:int,name:fk_persona;datatype:int,name:fk_comp;datatype:int,name:seudonimo;datatype:blob,name:fechainscrip;datatype:date" />
+	<infoitem key="UD_Inscriptos" value="name:id_inscripto;datatype:int,name:fk_persona;datatype:int,name:fk_comp;datatype:int,name:seudonimo;datatype:blob,name:fechainscrip;datatype:date" />
+</info>
